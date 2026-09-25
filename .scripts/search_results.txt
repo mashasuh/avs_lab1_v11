@@ -1,0 +1,25 @@
+5 больших обычных файлов
+-rw-r--r-- 1 vscode vscode 1479 Sep 24 08:17 nagiev_call
+-rw-r--r-- 1 vscode vscode  439 Sep 25 10:15 meeting_notes
+-rw-r----- 1 vscode vscode  386 Sep 25 10:15 nagiev_call
+-rw-r----- 1 vscode vscode  243 Sep 24 20:39 owner_order
+-rw-r--r-- 1 vscode vscode 239 Sep 24 20:39 promo_final
+str про Нагиева и Баринова
+Нагиев позвонил Вике утром
+Нагиев позвонил Вике утром
+Дмитрий Нагиев требует подготовить ресторан к съёмке
+Дмитрий Нагиев требует подготовить ресторан к съёмке
+Дмитрий Нагиев требует подготовить ресторан к съёмке
+кол-во файлов с соч поставщик
+2
+первая и ласт str договоров
+Музыканты выступают в пятницу вечером
+Оплата производится после приёмки
+Поставщик привозит продукты утром
+кол-во слов после фильтра meeting_notes
+12
+символ ссылки
+lrwxrwxrwx 1 vscode vscode   40 Sep 25 10:15 owner_contract -> claude_monet/contracts/supplier_contract
+lrwxrwxrwx 1 vscode vscode    7 Sep 25 10:15 hall_access -> ../hall
+Кол-во слов в рекламных str
+6
